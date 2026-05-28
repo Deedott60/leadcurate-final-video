@@ -1,8 +1,8 @@
 # LeadCurate Final Video
 
-Latest HyperFrames / ElevenLabs version:
+Latest revised version:
 
-- `leadcurate-sarah-hyperframes-final.mp4` — 40s Sarah / insurance-style LeadCurate commercial
-- `leadcurate-sarah-hyperframes-contact-sheet.jpg` — QA contact sheet
+- `leadcurate-sarah-v2-final.mp4` — revised Sarah/insurance-style commercial; no character-board frame; site-matched LeadCurate logo treatment with green Curate + green dot; includes DNC scrub / DNC-aware messaging.
+- `leadcurate-sarah-v2-contact-sheet.jpg` — QA contact sheet.
 
-Rendered with HyperFrames. Voiceover generated with ElevenLabs Adam voice. Human/Sarah visual assets are from the existing Sarah character board and previously generated Sarah office clip.
+Earlier versions are retained for comparison.
